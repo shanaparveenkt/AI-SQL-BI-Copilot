@@ -1,0 +1,501 @@
+product_id,product_name,category,price,cost_price,stock
+PROD0001,Kitchen Blender Max,Home & Kitchen,8305,5813,154
+PROD0002,Face Serum Plus,Fashion,6836,4785,261
+PROD0003,Running Shoes Pro,Home & Kitchen,4596,3217,255
+PROD0004,Face Serum Plus,Sports,3009,2106,194
+PROD0005,Wireless Earbuds,Beauty,4167,2916,99
+PROD0006,Running Shoes Pro,Fashion,6864,4804,198
+PROD0007,Face Serum Plus,Beauty,843,590,83
+PROD0008,Face Serum Plus,Home & Kitchen,1197,837,287
+PROD0009,Face Serum Plus,Fashion,4218,2952,190
+PROD0010,Face Serum Plus,Home & Kitchen,3909,2736,223
+PROD0011,Face Serum Plus,Home & Kitchen,8046,5632,208
+PROD0012,Running Shoes Pro,Beauty,8094,5665,176
+PROD0013,Wireless Earbuds,Sports,7035,4924,115
+PROD0014,Wireless Earbuds,Fashion,4530,3171,109
+PROD0015,Face Serum Plus,Sports,6454,4517,219
+PROD0016,Running Shoes Pro,Fashion,6640,4648,211
+PROD0017,Face Serum Plus,Electronics,2815,1970,287
+PROD0018,Running Shoes Pro,Sports,7910,5537,221
+PROD0019,Wireless Earbuds,Fashion,1333,933,182
+PROD0020,Wireless Earbuds,Home & Kitchen,9538,6676,274
+PROD0021,Wireless Earbuds,Home & Kitchen,7574,5301,22
+PROD0022,Face Serum Plus,Sports,3882,2717,98
+PROD0023,Kitchen Blender Max,Fashion,4978,3484,215
+PROD0024,Wireless Earbuds,Fashion,9921,6944,220
+PROD0025,Face Serum Plus,Fashion,5685,3979,76
+PROD0026,Running Shoes Pro,Sports,8473,5931,281
+PROD0027,Smart Watch X,Electronics,1078,754,53
+PROD0028,Smart Watch X,Electronics,851,595,179
+PROD0029,Running Shoes Pro,Beauty,1973,1381,113
+PROD0030,Wireless Earbuds,Beauty,2967,2076,43
+PROD0031,Kitchen Blender Max,Beauty,6446,4512,238
+PROD0032,Running Shoes Pro,Fashion,8283,5798,158
+PROD0033,Smart Watch X,Sports,5468,3827,91
+PROD0034,Wireless Earbuds,Home & Kitchen,2990,2093,70
+PROD0035,Kitchen Blender Max,Home & Kitchen,9221,6454,91
+PROD0036,Kitchen Blender Max,Home & Kitchen,9702,6791,153
+PROD0037,Smart Watch X,Fashion,4586,3210,237
+PROD0038,Smart Watch X,Fashion,2090,1463,205
+PROD0039,Face Serum Plus,Home & Kitchen,8246,5772,97
+PROD0040,Kitchen Blender Max,Beauty,826,578,235
+PROD0041,Wireless Earbuds,Home & Kitchen,9870,6909,20
+PROD0042,Kitchen Blender Max,Beauty,8557,5989,183
+PROD0043,Running Shoes Pro,Electronics,1892,1324,100
+PROD0044,Kitchen Blender Max,Beauty,2710,1896,211
+PROD0045,Smart Watch X,Fashion,2949,2064,174
+PROD0046,Smart Watch X,Beauty,5289,3702,263
+PROD0047,Kitchen Blender Max,Sports,761,532,223
+PROD0048,Running Shoes Pro,Beauty,3269,2288,108
+PROD0049,Running Shoes Pro,Sports,8911,6237,22
+PROD0050,Running Shoes Pro,Fashion,8521,5964,36
+PROD0051,Running Shoes Pro,Beauty,4412,3088,239
+PROD0052,Running Shoes Pro,Electronics,7593,5315,149
+PROD0053,Smart Watch X,Beauty,8005,5603,292
+PROD0054,Wireless Earbuds,Sports,1014,709,15
+PROD0055,Smart Watch X,Beauty,9898,6928,204
+PROD0056,Face Serum Plus,Home & Kitchen,3770,2639,208
+PROD0057,Running Shoes Pro,Home & Kitchen,1089,762,181
+PROD0058,Kitchen Blender Max,Home & Kitchen,6509,4556,218
+PROD0059,Wireless Earbuds,Beauty,6105,4273,143
+PROD0060,Wireless Earbuds,Home & Kitchen,9550,6685,154
+PROD0061,Smart Watch X,Home & Kitchen,4869,3408,53
+PROD0062,Kitchen Blender Max,Electronics,5720,4003,21
+PROD0063,Smart Watch X,Fashion,2605,1823,48
+PROD0064,Running Shoes Pro,Electronics,3401,2380,88
+PROD0065,Wireless Earbuds,Electronics,9870,6909,48
+PROD0066,Smart Watch X,Beauty,658,460,46
+PROD0067,Kitchen Blender Max,Home & Kitchen,3059,2141,179
+PROD0068,Kitchen Blender Max,Electronics,2233,1563,38
+PROD0069,Wireless Earbuds,Electronics,2772,1940,105
+PROD0070,Smart Watch X,Electronics,2002,1401,231
+PROD0071,Wireless Earbuds,Electronics,4318,3022,50
+PROD0072,Running Shoes Pro,Sports,6838,4786,108
+PROD0073,Wireless Earbuds,Home & Kitchen,8299,5809,105
+PROD0074,Running Shoes Pro,Sports,8187,5730,41
+PROD0075,Wireless Earbuds,Sports,7750,5425,13
+PROD0076,Wireless Earbuds,Fashion,1803,1262,144
+PROD0077,Kitchen Blender Max,Sports,2857,1999,106
+PROD0078,Smart Watch X,Fashion,2531,1771,105
+PROD0079,Wireless Earbuds,Fashion,5765,4035,212
+PROD0080,Kitchen Blender Max,Home & Kitchen,5361,3752,269
+PROD0081,Wireless Earbuds,Home & Kitchen,5176,3623,138
+PROD0082,Wireless Earbuds,Sports,6148,4303,13
+PROD0083,Running Shoes Pro,Fashion,4623,3236,43
+PROD0084,Smart Watch X,Home & Kitchen,1509,1056,186
+PROD0085,Kitchen Blender Max,Home & Kitchen,1489,1042,50
+PROD0086,Smart Watch X,Electronics,7806,5464,173
+PROD0087,Kitchen Blender Max,Electronics,6422,4495,144
+PROD0088,Face Serum Plus,Beauty,5727,4008,255
+PROD0089,Face Serum Plus,Beauty,6569,4598,260
+PROD0090,Kitchen Blender Max,Fashion,5635,3944,126
+PROD0091,Smart Watch X,Beauty,3294,2305,219
+PROD0092,Face Serum Plus,Beauty,8117,5681,216
+PROD0093,Face Serum Plus,Home & Kitchen,8096,5667,88
+PROD0094,Face Serum Plus,Home & Kitchen,2827,1978,22
+PROD0095,Running Shoes Pro,Home & Kitchen,2784,1948,86
+PROD0096,Running Shoes Pro,Electronics,7044,4930,232
+PROD0097,Wireless Earbuds,Sports,3330,2331,104
+PROD0098,Smart Watch X,Electronics,4055,2838,210
+PROD0099,Wireless Earbuds,Beauty,8237,5765,182
+PROD0100,Smart Watch X,Home & Kitchen,3740,2618,210
+PROD0101,Running Shoes Pro,Sports,3093,2165,152
+PROD0102,Wireless Earbuds,Home & Kitchen,4231,2961,265
+PROD0103,Face Serum Plus,Fashion,7591,5313,259
+PROD0104,Running Shoes Pro,Electronics,1479,1035,44
+PROD0105,Face Serum Plus,Sports,5796,4057,158
+PROD0106,Wireless Earbuds,Sports,2817,1971,263
+PROD0107,Face Serum Plus,Home & Kitchen,4045,2831,16
+PROD0108,Wireless Earbuds,Beauty,5546,3882,169
+PROD0109,Kitchen Blender Max,Electronics,7528,5269,76
+PROD0110,Running Shoes Pro,Beauty,9177,6423,201
+PROD0111,Running Shoes Pro,Sports,2599,1819,252
+PROD0112,Smart Watch X,Home & Kitchen,1534,1073,199
+PROD0113,Wireless Earbuds,Fashion,7332,5132,177
+PROD0114,Running Shoes Pro,Home & Kitchen,4324,3026,153
+PROD0115,Running Shoes Pro,Sports,9593,6715,179
+PROD0116,Wireless Earbuds,Beauty,3684,2578,127
+PROD0117,Wireless Earbuds,Home & Kitchen,4383,3068,298
+PROD0118,Smart Watch X,Beauty,8196,5737,271
+PROD0119,Face Serum Plus,Fashion,2066,1446,174
+PROD0120,Kitchen Blender Max,Home & Kitchen,1832,1282,246
+PROD0121,Smart Watch X,Home & Kitchen,4858,3400,209
+PROD0122,Running Shoes Pro,Fashion,3665,2565,196
+PROD0123,Face Serum Plus,Fashion,1467,1026,124
+PROD0124,Running Shoes Pro,Beauty,550,385,257
+PROD0125,Wireless Earbuds,Beauty,9705,6793,173
+PROD0126,Running Shoes Pro,Sports,8441,5908,284
+PROD0127,Wireless Earbuds,Sports,3777,2643,71
+PROD0128,Smart Watch X,Fashion,5343,3740,278
+PROD0129,Running Shoes Pro,Fashion,8759,6131,202
+PROD0130,Smart Watch X,Beauty,7430,5201,143
+PROD0131,Wireless Earbuds,Beauty,3846,2692,22
+PROD0132,Face Serum Plus,Electronics,972,680,198
+PROD0133,Wireless Earbuds,Home & Kitchen,8117,5681,205
+PROD0134,Wireless Earbuds,Sports,9597,6717,237
+PROD0135,Smart Watch X,Beauty,5646,3952,243
+PROD0136,Wireless Earbuds,Sports,5021,3514,242
+PROD0137,Wireless Earbuds,Sports,5165,3615,75
+PROD0138,Smart Watch X,Electronics,5788,4051,36
+PROD0139,Kitchen Blender Max,Home & Kitchen,5849,4094,198
+PROD0140,Running Shoes Pro,Home & Kitchen,2822,1975,291
+PROD0141,Face Serum Plus,Beauty,917,641,212
+PROD0142,Running Shoes Pro,Sports,3416,2391,27
+PROD0143,Running Shoes Pro,Sports,5135,3594,30
+PROD0144,Smart Watch X,Fashion,8883,6218,264
+PROD0145,Smart Watch X,Fashion,1546,1082,87
+PROD0146,Kitchen Blender Max,Fashion,2175,1522,130
+PROD0147,Running Shoes Pro,Beauty,2005,1403,183
+PROD0148,Face Serum Plus,Beauty,1829,1280,45
+PROD0149,Face Serum Plus,Sports,8568,5997,41
+PROD0150,Face Serum Plus,Home & Kitchen,9096,6367,89
+PROD0151,Smart Watch X,Fashion,9480,6636,239
+PROD0152,Smart Watch X,Beauty,3106,2174,126
+PROD0153,Smart Watch X,Sports,4420,3094,22
+PROD0154,Wireless Earbuds,Home & Kitchen,1359,951,31
+PROD0155,Wireless Earbuds,Fashion,1191,833,88
+PROD0156,Kitchen Blender Max,Beauty,2755,1928,175
+PROD0157,Face Serum Plus,Electronics,6849,4794,271
+PROD0158,Face Serum Plus,Electronics,5245,3671,222
+PROD0159,Smart Watch X,Electronics,9511,6657,112
+PROD0160,Wireless Earbuds,Fashion,1089,762,261
+PROD0161,Running Shoes Pro,Electronics,617,431,198
+PROD0162,Wireless Earbuds,Home & Kitchen,8841,6188,118
+PROD0163,Kitchen Blender Max,Electronics,2994,2095,154
+PROD0164,Kitchen Blender Max,Beauty,4852,3396,271
+PROD0165,Wireless Earbuds,Fashion,6863,4804,141
+PROD0166,Wireless Earbuds,Beauty,5980,4186,143
+PROD0167,Smart Watch X,Beauty,6932,4852,241
+PROD0168,Face Serum Plus,Sports,972,680,272
+PROD0169,Wireless Earbuds,Fashion,7146,5002,67
+PROD0170,Face Serum Plus,Electronics,1182,827,115
+PROD0171,Kitchen Blender Max,Beauty,3779,2645,119
+PROD0172,Running Shoes Pro,Home & Kitchen,5470,3828,37
+PROD0173,Kitchen Blender Max,Beauty,4265,2985,121
+PROD0174,Smart Watch X,Beauty,8873,6211,16
+PROD0175,Wireless Earbuds,Beauty,4045,2831,115
+PROD0176,Face Serum Plus,Beauty,8685,6079,244
+PROD0177,Kitchen Blender Max,Fashion,6902,4831,261
+PROD0178,Kitchen Blender Max,Sports,8367,5856,156
+PROD0179,Smart Watch X,Sports,4571,3199,64
+PROD0180,Smart Watch X,Sports,504,352,35
+PROD0181,Running Shoes Pro,Electronics,683,478,165
+PROD0182,Face Serum Plus,Sports,7791,5453,91
+PROD0183,Smart Watch X,Beauty,2093,1465,120
+PROD0184,Face Serum Plus,Beauty,3625,2537,48
+PROD0185,Face Serum Plus,Electronics,5087,3560,162
+PROD0186,Smart Watch X,Beauty,1073,751,82
+PROD0187,Face Serum Plus,Fashion,4804,3362,71
+PROD0188,Face Serum Plus,Fashion,997,697,17
+PROD0189,Smart Watch X,Fashion,2344,1640,243
+PROD0190,Kitchen Blender Max,Beauty,9999,6999,148
+PROD0191,Kitchen Blender Max,Home & Kitchen,869,608,42
+PROD0192,Wireless Earbuds,Electronics,3011,2107,213
+PROD0193,Smart Watch X,Electronics,6683,4678,264
+PROD0194,Face Serum Plus,Home & Kitchen,7585,5309,99
+PROD0195,Kitchen Blender Max,Electronics,717,501,42
+PROD0196,Running Shoes Pro,Home & Kitchen,5101,3570,113
+PROD0197,Smart Watch X,Beauty,4879,3415,106
+PROD0198,Face Serum Plus,Electronics,4347,3042,32
+PROD0199,Face Serum Plus,Sports,9727,6808,260
+PROD0200,Smart Watch X,Beauty,4293,3005,196
+PROD0201,Kitchen Blender Max,Beauty,1948,1363,243
+PROD0202,Kitchen Blender Max,Fashion,8241,5768,201
+PROD0203,Kitchen Blender Max,Sports,6582,4607,84
+PROD0204,Running Shoes Pro,Home & Kitchen,5754,4027,99
+PROD0205,Running Shoes Pro,Home & Kitchen,7082,4957,187
+PROD0206,Wireless Earbuds,Home & Kitchen,5291,3703,287
+PROD0207,Running Shoes Pro,Home & Kitchen,7181,5026,54
+PROD0208,Wireless Earbuds,Beauty,4648,3253,193
+PROD0209,Face Serum Plus,Sports,8144,5700,94
+PROD0210,Running Shoes Pro,Sports,1200,840,84
+PROD0211,Kitchen Blender Max,Fashion,6097,4267,81
+PROD0212,Face Serum Plus,Electronics,3872,2710,224
+PROD0213,Kitchen Blender Max,Sports,2333,1633,31
+PROD0214,Smart Watch X,Sports,9012,6308,12
+PROD0215,Kitchen Blender Max,Fashion,4673,3271,126
+PROD0216,Face Serum Plus,Electronics,5986,4190,176
+PROD0217,Kitchen Blender Max,Home & Kitchen,6616,4631,277
+PROD0218,Wireless Earbuds,Sports,6935,4854,189
+PROD0219,Smart Watch X,Fashion,7184,5028,242
+PROD0220,Wireless Earbuds,Electronics,3051,2135,268
+PROD0221,Face Serum Plus,Fashion,2266,1586,46
+PROD0222,Wireless Earbuds,Home & Kitchen,5522,3865,165
+PROD0223,Kitchen Blender Max,Electronics,3928,2749,107
+PROD0224,Smart Watch X,Electronics,885,619,161
+PROD0225,Wireless Earbuds,Fashion,2483,1738,46
+PROD0226,Running Shoes Pro,Home & Kitchen,1598,1118,70
+PROD0227,Running Shoes Pro,Home & Kitchen,7412,5188,15
+PROD0228,Running Shoes Pro,Home & Kitchen,5418,3792,201
+PROD0229,Running Shoes Pro,Home & Kitchen,3915,2740,254
+PROD0230,Face Serum Plus,Electronics,1186,830,265
+PROD0231,Running Shoes Pro,Electronics,5736,4015,140
+PROD0232,Face Serum Plus,Sports,8259,5781,60
+PROD0233,Kitchen Blender Max,Sports,7425,5197,189
+PROD0234,Smart Watch X,Home & Kitchen,8533,5973,29
+PROD0235,Smart Watch X,Home & Kitchen,8486,5940,139
+PROD0236,Smart Watch X,Electronics,9408,6585,135
+PROD0237,Face Serum Plus,Home & Kitchen,2040,1428,182
+PROD0238,Kitchen Blender Max,Home & Kitchen,4454,3117,27
+PROD0239,Running Shoes Pro,Sports,5789,4052,241
+PROD0240,Kitchen Blender Max,Home & Kitchen,4048,2833,58
+PROD0241,Wireless Earbuds,Sports,668,467,24
+PROD0242,Face Serum Plus,Electronics,8795,6156,267
+PROD0243,Face Serum Plus,Beauty,3469,2428,299
+PROD0244,Kitchen Blender Max,Electronics,6859,4801,139
+PROD0245,Kitchen Blender Max,Home & Kitchen,2427,1698,99
+PROD0246,Running Shoes Pro,Fashion,7901,5530,30
+PROD0247,Kitchen Blender Max,Beauty,5256,3679,228
+PROD0248,Wireless Earbuds,Electronics,2296,1607,111
+PROD0249,Face Serum Plus,Fashion,8399,5879,12
+PROD0250,Wireless Earbuds,Home & Kitchen,6845,4791,32
+PROD0251,Wireless Earbuds,Fashion,5452,3816,184
+PROD0252,Wireless Earbuds,Home & Kitchen,8583,6008,69
+PROD0253,Wireless Earbuds,Fashion,2163,1514,77
+PROD0254,Smart Watch X,Home & Kitchen,9720,6804,264
+PROD0255,Face Serum Plus,Electronics,6507,4554,278
+PROD0256,Kitchen Blender Max,Electronics,6534,4573,224
+PROD0257,Smart Watch X,Beauty,8260,5782,233
+PROD0258,Face Serum Plus,Electronics,9630,6741,43
+PROD0259,Running Shoes Pro,Beauty,1929,1350,253
+PROD0260,Kitchen Blender Max,Fashion,7075,4952,80
+PROD0261,Smart Watch X,Fashion,2482,1737,54
+PROD0262,Wireless Earbuds,Fashion,9845,6891,238
+PROD0263,Running Shoes Pro,Sports,9444,6610,144
+PROD0264,Smart Watch X,Fashion,8329,5830,221
+PROD0265,Kitchen Blender Max,Electronics,2398,1678,128
+PROD0266,Wireless Earbuds,Beauty,3816,2671,78
+PROD0267,Smart Watch X,Beauty,6901,4830,40
+PROD0268,Smart Watch X,Electronics,8859,6201,278
+PROD0269,Kitchen Blender Max,Sports,4856,3399,14
+PROD0270,Wireless Earbuds,Beauty,5469,3828,134
+PROD0271,Wireless Earbuds,Fashion,8370,5859,253
+PROD0272,Face Serum Plus,Fashion,8336,5835,60
+PROD0273,Face Serum Plus,Sports,3324,2326,287
+PROD0274,Wireless Earbuds,Fashion,1661,1162,271
+PROD0275,Smart Watch X,Home & Kitchen,2882,2017,272
+PROD0276,Kitchen Blender Max,Fashion,1689,1182,136
+PROD0277,Running Shoes Pro,Fashion,7274,5091,144
+PROD0278,Smart Watch X,Home & Kitchen,7158,5010,31
+PROD0279,Face Serum Plus,Electronics,5750,4024,108
+PROD0280,Face Serum Plus,Home & Kitchen,6622,4635,125
+PROD0281,Face Serum Plus,Sports,2586,1810,270
+PROD0282,Wireless Earbuds,Fashion,7160,5012,276
+PROD0283,Face Serum Plus,Electronics,5212,3648,231
+PROD0284,Face Serum Plus,Electronics,1006,704,297
+PROD0285,Wireless Earbuds,Electronics,1890,1323,199
+PROD0286,Face Serum Plus,Beauty,5044,3530,247
+PROD0287,Running Shoes Pro,Sports,6094,4265,177
+PROD0288,Face Serum Plus,Sports,5548,3883,259
+PROD0289,Kitchen Blender Max,Sports,6825,4777,80
+PROD0290,Running Shoes Pro,Electronics,8189,5732,260
+PROD0291,Kitchen Blender Max,Sports,6110,4277,42
+PROD0292,Running Shoes Pro,Beauty,4622,3235,157
+PROD0293,Wireless Earbuds,Beauty,8913,6239,175
+PROD0294,Kitchen Blender Max,Fashion,4422,3095,188
+PROD0295,Wireless Earbuds,Beauty,5519,3863,275
+PROD0296,Running Shoes Pro,Beauty,7242,5069,227
+PROD0297,Kitchen Blender Max,Fashion,3585,2509,161
+PROD0298,Running Shoes Pro,Sports,3612,2528,293
+PROD0299,Wireless Earbuds,Home & Kitchen,5761,4032,276
+PROD0300,Smart Watch X,Beauty,3341,2338,136
+PROD0301,Kitchen Blender Max,Beauty,3870,2709,103
+PROD0302,Running Shoes Pro,Fashion,8642,6049,210
+PROD0303,Running Shoes Pro,Sports,8435,5904,245
+PROD0304,Running Shoes Pro,Fashion,9304,6512,140
+PROD0305,Running Shoes Pro,Electronics,1680,1176,202
+PROD0306,Face Serum Plus,Electronics,9522,6665,44
+PROD0307,Running Shoes Pro,Home & Kitchen,3595,2516,242
+PROD0308,Kitchen Blender Max,Beauty,9521,6664,271
+PROD0309,Face Serum Plus,Fashion,9797,6857,146
+PROD0310,Face Serum Plus,Home & Kitchen,1335,934,65
+PROD0311,Face Serum Plus,Home & Kitchen,8304,5812,170
+PROD0312,Wireless Earbuds,Fashion,2456,1719,72
+PROD0313,Smart Watch X,Electronics,6420,4494,45
+PROD0314,Smart Watch X,Sports,5044,3530,284
+PROD0315,Wireless Earbuds,Electronics,4897,3427,226
+PROD0316,Smart Watch X,Sports,3856,2699,40
+PROD0317,Smart Watch X,Beauty,661,462,151
+PROD0318,Face Serum Plus,Fashion,5156,3609,128
+PROD0319,Kitchen Blender Max,Sports,4111,2877,146
+PROD0320,Running Shoes Pro,Fashion,9554,6687,87
+PROD0321,Kitchen Blender Max,Sports,876,613,172
+PROD0322,Wireless Earbuds,Home & Kitchen,4102,2871,114
+PROD0323,Kitchen Blender Max,Electronics,9375,6562,92
+PROD0324,Kitchen Blender Max,Sports,1993,1395,148
+PROD0325,Smart Watch X,Electronics,8466,5926,136
+PROD0326,Wireless Earbuds,Fashion,7158,5010,245
+PROD0327,Wireless Earbuds,Fashion,3213,2249,153
+PROD0328,Smart Watch X,Fashion,2259,1581,167
+PROD0329,Kitchen Blender Max,Sports,7630,5341,207
+PROD0330,Wireless Earbuds,Fashion,7809,5466,61
+PROD0331,Face Serum Plus,Home & Kitchen,1843,1290,236
+PROD0332,Face Serum Plus,Sports,2963,2074,204
+PROD0333,Kitchen Blender Max,Beauty,877,613,115
+PROD0334,Face Serum Plus,Sports,8553,5987,185
+PROD0335,Smart Watch X,Home & Kitchen,5776,4043,269
+PROD0336,Face Serum Plus,Sports,6855,4798,115
+PROD0337,Wireless Earbuds,Electronics,6610,4627,203
+PROD0338,Face Serum Plus,Fashion,3258,2280,121
+PROD0339,Running Shoes Pro,Home & Kitchen,5648,3953,150
+PROD0340,Running Shoes Pro,Fashion,4575,3202,204
+PROD0341,Smart Watch X,Sports,8195,5736,134
+PROD0342,Face Serum Plus,Electronics,1559,1091,209
+PROD0343,Running Shoes Pro,Beauty,9866,6906,205
+PROD0344,Face Serum Plus,Home & Kitchen,835,584,238
+PROD0345,Smart Watch X,Home & Kitchen,7449,5214,140
+PROD0346,Wireless Earbuds,Beauty,6205,4343,197
+PROD0347,Face Serum Plus,Fashion,4757,3329,96
+PROD0348,Kitchen Blender Max,Sports,4090,2863,281
+PROD0349,Smart Watch X,Home & Kitchen,3706,2594,196
+PROD0350,Wireless Earbuds,Electronics,1286,900,91
+PROD0351,Kitchen Blender Max,Sports,2013,1409,35
+PROD0352,Smart Watch X,Sports,4602,3221,140
+PROD0353,Wireless Earbuds,Beauty,7923,5546,82
+PROD0354,Running Shoes Pro,Fashion,7641,5348,127
+PROD0355,Running Shoes Pro,Fashion,7208,5045,276
+PROD0356,Wireless Earbuds,Electronics,1594,1115,36
+PROD0357,Wireless Earbuds,Beauty,9881,6916,290
+PROD0358,Face Serum Plus,Fashion,8204,5742,130
+PROD0359,Wireless Earbuds,Sports,781,546,49
+PROD0360,Smart Watch X,Beauty,1603,1122,101
+PROD0361,Smart Watch X,Home & Kitchen,9248,6473,293
+PROD0362,Wireless Earbuds,Fashion,6544,4580,283
+PROD0363,Wireless Earbuds,Electronics,3560,2492,176
+PROD0364,Running Shoes Pro,Sports,3314,2319,20
+PROD0365,Kitchen Blender Max,Electronics,8706,6094,211
+PROD0366,Wireless Earbuds,Electronics,2711,1897,250
+PROD0367,Wireless Earbuds,Fashion,3054,2137,198
+PROD0368,Running Shoes Pro,Home & Kitchen,9902,6931,135
+PROD0369,Wireless Earbuds,Electronics,7953,5567,137
+PROD0370,Kitchen Blender Max,Electronics,3155,2208,44
+PROD0371,Wireless Earbuds,Electronics,6683,4678,157
+PROD0372,Kitchen Blender Max,Home & Kitchen,8049,5634,212
+PROD0373,Kitchen Blender Max,Home & Kitchen,9516,6661,278
+PROD0374,Kitchen Blender Max,Beauty,8145,5701,217
+PROD0375,Kitchen Blender Max,Home & Kitchen,4619,3233,95
+PROD0376,Face Serum Plus,Fashion,8743,6120,28
+PROD0377,Smart Watch X,Sports,3889,2722,198
+PROD0378,Smart Watch X,Sports,5389,3772,221
+PROD0379,Face Serum Plus,Beauty,6768,4737,201
+PROD0380,Running Shoes Pro,Home & Kitchen,891,623,111
+PROD0381,Wireless Earbuds,Home & Kitchen,762,533,85
+PROD0382,Kitchen Blender Max,Fashion,7871,5509,164
+PROD0383,Wireless Earbuds,Fashion,6993,4895,18
+PROD0384,Face Serum Plus,Beauty,4220,2954,259
+PROD0385,Face Serum Plus,Home & Kitchen,7041,4928,200
+PROD0386,Face Serum Plus,Fashion,3853,2697,222
+PROD0387,Wireless Earbuds,Fashion,1341,938,61
+PROD0388,Running Shoes Pro,Electronics,5340,3737,189
+PROD0389,Face Serum Plus,Home & Kitchen,8120,5684,49
+PROD0390,Running Shoes Pro,Sports,5316,3721,292
+PROD0391,Smart Watch X,Home & Kitchen,8316,5821,44
+PROD0392,Running Shoes Pro,Fashion,6275,4392,168
+PROD0393,Wireless Earbuds,Electronics,8802,6161,61
+PROD0394,Kitchen Blender Max,Beauty,2891,2023,40
+PROD0395,Kitchen Blender Max,Fashion,904,632,276
+PROD0396,Smart Watch X,Home & Kitchen,6582,4607,216
+PROD0397,Kitchen Blender Max,Home & Kitchen,5972,4180,187
+PROD0398,Running Shoes Pro,Beauty,5850,4094,36
+PROD0399,Kitchen Blender Max,Electronics,8970,6279,234
+PROD0400,Face Serum Plus,Sports,8487,5940,28
+PROD0401,Kitchen Blender Max,Sports,9478,6634,44
+PROD0402,Face Serum Plus,Beauty,3012,2108,235
+PROD0403,Wireless Earbuds,Fashion,4876,3413,110
+PROD0404,Kitchen Blender Max,Home & Kitchen,2026,1418,151
+PROD0405,Wireless Earbuds,Electronics,6961,4872,32
+PROD0406,Smart Watch X,Fashion,5462,3823,109
+PROD0407,Kitchen Blender Max,Fashion,7354,5147,223
+PROD0408,Face Serum Plus,Sports,2984,2088,300
+PROD0409,Wireless Earbuds,Electronics,4680,3276,43
+PROD0410,Smart Watch X,Beauty,3177,2223,257
+PROD0411,Wireless Earbuds,Home & Kitchen,1582,1107,94
+PROD0412,Smart Watch X,Electronics,8585,6009,245
+PROD0413,Kitchen Blender Max,Beauty,6115,4280,250
+PROD0414,Kitchen Blender Max,Sports,4728,3309,290
+PROD0415,Running Shoes Pro,Sports,5916,4141,89
+PROD0416,Running Shoes Pro,Sports,9020,6314,135
+PROD0417,Smart Watch X,Home & Kitchen,4206,2944,257
+PROD0418,Running Shoes Pro,Sports,4959,3471,163
+PROD0419,Face Serum Plus,Electronics,8673,6071,163
+PROD0420,Smart Watch X,Fashion,4721,3304,294
+PROD0421,Wireless Earbuds,Fashion,4163,2914,247
+PROD0422,Smart Watch X,Sports,3010,2107,268
+PROD0423,Face Serum Plus,Home & Kitchen,6447,4512,224
+PROD0424,Running Shoes Pro,Beauty,9782,6847,51
+PROD0425,Wireless Earbuds,Sports,4473,3131,256
+PROD0426,Running Shoes Pro,Electronics,1586,1110,233
+PROD0427,Face Serum Plus,Fashion,7150,5005,222
+PROD0428,Smart Watch X,Beauty,8252,5776,199
+PROD0429,Running Shoes Pro,Fashion,2437,1705,259
+PROD0430,Face Serum Plus,Sports,8558,5990,119
+PROD0431,Face Serum Plus,Fashion,7140,4998,156
+PROD0432,Kitchen Blender Max,Fashion,4485,3139,182
+PROD0433,Kitchen Blender Max,Beauty,3108,2175,202
+PROD0434,Smart Watch X,Electronics,1857,1299,52
+PROD0435,Wireless Earbuds,Sports,639,447,229
+PROD0436,Smart Watch X,Fashion,8571,5999,36
+PROD0437,Face Serum Plus,Fashion,534,373,26
+PROD0438,Running Shoes Pro,Beauty,2686,1880,192
+PROD0439,Smart Watch X,Electronics,9871,6909,94
+PROD0440,Running Shoes Pro,Electronics,5575,3902,29
+PROD0441,Smart Watch X,Sports,1849,1294,10
+PROD0442,Wireless Earbuds,Home & Kitchen,3649,2554,261
+PROD0443,Running Shoes Pro,Sports,2261,1582,159
+PROD0444,Smart Watch X,Sports,9119,6383,155
+PROD0445,Smart Watch X,Home & Kitchen,2771,1939,143
+PROD0446,Kitchen Blender Max,Electronics,3078,2154,264
+PROD0447,Running Shoes Pro,Electronics,4166,2916,211
+PROD0448,Wireless Earbuds,Home & Kitchen,6048,4233,241
+PROD0449,Kitchen Blender Max,Beauty,6377,4463,160
+PROD0450,Face Serum Plus,Fashion,7071,4949,168
+PROD0451,Wireless Earbuds,Fashion,5851,4095,246
+PROD0452,Wireless Earbuds,Electronics,2936,2055,50
+PROD0453,Kitchen Blender Max,Electronics,1462,1023,85
+PROD0454,Face Serum Plus,Fashion,2264,1584,86
+PROD0455,Running Shoes Pro,Beauty,1703,1192,173
+PROD0456,Wireless Earbuds,Home & Kitchen,9990,6993,232
+PROD0457,Smart Watch X,Sports,7215,5050,164
+PROD0458,Face Serum Plus,Electronics,3936,2755,196
+PROD0459,Face Serum Plus,Fashion,3064,2144,186
+PROD0460,Smart Watch X,Electronics,1582,1107,139
+PROD0461,Wireless Earbuds,Home & Kitchen,6882,4817,247
+PROD0462,Running Shoes Pro,Home & Kitchen,7012,4908,78
+PROD0463,Face Serum Plus,Beauty,5856,4099,300
+PROD0464,Smart Watch X,Fashion,3514,2459,138
+PROD0465,Smart Watch X,Home & Kitchen,7312,5118,181
+PROD0466,Smart Watch X,Fashion,2927,2048,132
+PROD0467,Kitchen Blender Max,Home & Kitchen,8901,6230,152
+PROD0468,Wireless Earbuds,Home & Kitchen,3813,2669,29
+PROD0469,Running Shoes Pro,Beauty,651,455,200
+PROD0470,Smart Watch X,Electronics,6024,4216,257
+PROD0471,Wireless Earbuds,Fashion,8709,6096,85
+PROD0472,Kitchen Blender Max,Beauty,5947,4162,281
+PROD0473,Kitchen Blender Max,Sports,6901,4830,110
+PROD0474,Smart Watch X,Home & Kitchen,7626,5338,290
+PROD0475,Kitchen Blender Max,Home & Kitchen,5254,3677,32
+PROD0476,Running Shoes Pro,Electronics,5161,3612,218
+PROD0477,Face Serum Plus,Home & Kitchen,1528,1069,247
+PROD0478,Wireless Earbuds,Beauty,9869,6908,124
+PROD0479,Running Shoes Pro,Beauty,7860,5502,29
+PROD0480,Kitchen Blender Max,Beauty,4259,2981,212
+PROD0481,Smart Watch X,Sports,4847,3392,127
+PROD0482,Wireless Earbuds,Home & Kitchen,1164,814,132
+PROD0483,Smart Watch X,Home & Kitchen,7004,4902,34
+PROD0484,Running Shoes Pro,Sports,1746,1222,289
+PROD0485,Smart Watch X,Sports,7328,5129,166
+PROD0486,Face Serum Plus,Sports,1338,936,119
+PROD0487,Kitchen Blender Max,Beauty,9250,6475,69
+PROD0488,Face Serum Plus,Sports,4347,3042,178
+PROD0489,Kitchen Blender Max,Fashion,3403,2382,17
+PROD0490,Smart Watch X,Beauty,7536,5275,135
+PROD0491,Smart Watch X,Electronics,8362,5853,76
+PROD0492,Wireless Earbuds,Beauty,4730,3311,141
+PROD0493,Wireless Earbuds,Home & Kitchen,7308,5115,114
+PROD0494,Running Shoes Pro,Electronics,3185,2229,157
+PROD0495,Kitchen Blender Max,Sports,5570,3898,45
+PROD0496,Wireless Earbuds,Electronics,1748,1223,11
+PROD0497,Smart Watch X,Beauty,4424,3096,101
+PROD0498,Face Serum Plus,Beauty,2357,1649,72
+PROD0499,Kitchen Blender Max,Home & Kitchen,8699,6089,271
+PROD0500,Face Serum Plus,Sports,2500,1750,152

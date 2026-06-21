@@ -1,0 +1,301 @@
+seller_id,seller_name,city,state,country,seller_rating
+SELL0001,GlowMart,Calicut,Kerala,India,4.6
+SELL0002,FashionHub,Bangalore,Karnataka,India,3.8
+SELL0003,SportZone,Kochi,Kerala,India,4.9
+SELL0004,SportZone,Calicut,Kerala,India,4.6
+SELL0005,TechNova,Calicut,Kerala,India,3.3
+SELL0006,FashionHub,Bangalore,Karnataka,India,4.0
+SELL0007,FashionHub,Chennai,Tamil Nadu,India,4.0
+SELL0008,TechNova,Bangalore,Karnataka,India,3.7
+SELL0009,HomeCraft,Mumbai,Maharashtra,India,3.2
+SELL0010,HomeCraft,Chennai,Tamil Nadu,India,3.4
+SELL0011,SportZone,Kochi,Kerala,India,4.3
+SELL0012,TechNova,Chennai,Tamil Nadu,India,5.0
+SELL0013,HomeCraft,Kochi,Kerala,India,4.1
+SELL0014,HomeCraft,Mumbai,Maharashtra,India,3.6
+SELL0015,FashionHub,Bangalore,Karnataka,India,4.8
+SELL0016,HomeCraft,Calicut,Kerala,India,3.4
+SELL0017,GlowMart,Chennai,Tamil Nadu,India,3.0
+SELL0018,GlowMart,Bangalore,Karnataka,India,3.8
+SELL0019,GlowMart,Calicut,Kerala,India,4.7
+SELL0020,FashionHub,Calicut,Kerala,India,4.7
+SELL0021,SportZone,Chennai,Tamil Nadu,India,4.1
+SELL0022,SportZone,Calicut,Kerala,India,3.3
+SELL0023,SportZone,Mumbai,Maharashtra,India,5.0
+SELL0024,TechNova,Bangalore,Karnataka,India,4.2
+SELL0025,GlowMart,Calicut,Kerala,India,3.5
+SELL0026,HomeCraft,Chennai,Tamil Nadu,India,3.6
+SELL0027,TechNova,Calicut,Kerala,India,4.9
+SELL0028,GlowMart,Kochi,Kerala,India,4.6
+SELL0029,GlowMart,Kochi,Kerala,India,3.7
+SELL0030,TechNova,Mumbai,Maharashtra,India,5.0
+SELL0031,TechNova,Bangalore,Karnataka,India,4.0
+SELL0032,HomeCraft,Bangalore,Karnataka,India,3.0
+SELL0033,GlowMart,Bangalore,Karnataka,India,3.4
+SELL0034,FashionHub,Calicut,Kerala,India,4.9
+SELL0035,SportZone,Chennai,Tamil Nadu,India,4.7
+SELL0036,TechNova,Bangalore,Karnataka,India,3.2
+SELL0037,GlowMart,Bangalore,Karnataka,India,3.6
+SELL0038,FashionHub,Calicut,Kerala,India,4.2
+SELL0039,TechNova,Chennai,Tamil Nadu,India,3.5
+SELL0040,GlowMart,Bangalore,Karnataka,India,4.7
+SELL0041,SportZone,Chennai,Tamil Nadu,India,4.8
+SELL0042,SportZone,Calicut,Kerala,India,4.9
+SELL0043,GlowMart,Chennai,Tamil Nadu,India,4.8
+SELL0044,TechNova,Bangalore,Karnataka,India,4.8
+SELL0045,GlowMart,Calicut,Kerala,India,4.8
+SELL0046,TechNova,Mumbai,Maharashtra,India,4.3
+SELL0047,TechNova,Bangalore,Karnataka,India,3.3
+SELL0048,SportZone,Calicut,Kerala,India,3.0
+SELL0049,TechNova,Mumbai,Maharashtra,India,3.9
+SELL0050,HomeCraft,Bangalore,Karnataka,India,4.1
+SELL0051,FashionHub,Bangalore,Karnataka,India,4.2
+SELL0052,FashionHub,Chennai,Tamil Nadu,India,3.2
+SELL0053,FashionHub,Kochi,Kerala,India,4.3
+SELL0054,TechNova,Chennai,Tamil Nadu,India,4.3
+SELL0055,HomeCraft,Calicut,Kerala,India,3.4
+SELL0056,FashionHub,Kochi,Kerala,India,4.5
+SELL0057,FashionHub,Chennai,Tamil Nadu,India,5.0
+SELL0058,SportZone,Calicut,Kerala,India,4.8
+SELL0059,FashionHub,Chennai,Tamil Nadu,India,4.0
+SELL0060,TechNova,Kochi,Kerala,India,3.9
+SELL0061,HomeCraft,Chennai,Tamil Nadu,India,3.4
+SELL0062,GlowMart,Chennai,Tamil Nadu,India,3.7
+SELL0063,SportZone,Mumbai,Maharashtra,India,3.8
+SELL0064,GlowMart,Chennai,Tamil Nadu,India,3.5
+SELL0065,TechNova,Chennai,Tamil Nadu,India,4.4
+SELL0066,SportZone,Bangalore,Karnataka,India,4.0
+SELL0067,HomeCraft,Calicut,Kerala,India,4.2
+SELL0068,FashionHub,Bangalore,Karnataka,India,4.2
+SELL0069,TechNova,Chennai,Tamil Nadu,India,4.9
+SELL0070,FashionHub,Kochi,Kerala,India,4.4
+SELL0071,FashionHub,Kochi,Kerala,India,4.5
+SELL0072,HomeCraft,Calicut,Kerala,India,3.3
+SELL0073,GlowMart,Kochi,Kerala,India,4.9
+SELL0074,TechNova,Chennai,Tamil Nadu,India,4.3
+SELL0075,TechNova,Calicut,Kerala,India,3.8
+SELL0076,FashionHub,Bangalore,Karnataka,India,3.9
+SELL0077,TechNova,Kochi,Kerala,India,4.7
+SELL0078,HomeCraft,Bangalore,Karnataka,India,3.8
+SELL0079,GlowMart,Chennai,Tamil Nadu,India,3.9
+SELL0080,FashionHub,Kochi,Kerala,India,3.4
+SELL0081,FashionHub,Bangalore,Karnataka,India,4.7
+SELL0082,HomeCraft,Kochi,Kerala,India,4.0
+SELL0083,HomeCraft,Bangalore,Karnataka,India,3.1
+SELL0084,HomeCraft,Calicut,Kerala,India,3.9
+SELL0085,TechNova,Calicut,Kerala,India,4.5
+SELL0086,GlowMart,Chennai,Tamil Nadu,India,3.4
+SELL0087,GlowMart,Calicut,Kerala,India,3.3
+SELL0088,FashionHub,Bangalore,Karnataka,India,3.9
+SELL0089,HomeCraft,Calicut,Kerala,India,4.6
+SELL0090,TechNova,Chennai,Tamil Nadu,India,4.2
+SELL0091,GlowMart,Bangalore,Karnataka,India,4.3
+SELL0092,FashionHub,Mumbai,Maharashtra,India,4.4
+SELL0093,HomeCraft,Bangalore,Karnataka,India,4.9
+SELL0094,FashionHub,Bangalore,Karnataka,India,4.0
+SELL0095,FashionHub,Mumbai,Maharashtra,India,3.0
+SELL0096,HomeCraft,Kochi,Kerala,India,3.8
+SELL0097,SportZone,Chennai,Tamil Nadu,India,4.3
+SELL0098,TechNova,Kochi,Kerala,India,3.5
+SELL0099,SportZone,Bangalore,Karnataka,India,3.5
+SELL0100,GlowMart,Calicut,Kerala,India,4.7
+SELL0101,GlowMart,Chennai,Tamil Nadu,India,4.5
+SELL0102,TechNova,Calicut,Kerala,India,4.1
+SELL0103,FashionHub,Calicut,Kerala,India,4.8
+SELL0104,FashionHub,Bangalore,Karnataka,India,4.5
+SELL0105,SportZone,Chennai,Tamil Nadu,India,4.1
+SELL0106,FashionHub,Chennai,Tamil Nadu,India,4.3
+SELL0107,TechNova,Chennai,Tamil Nadu,India,3.3
+SELL0108,GlowMart,Calicut,Kerala,India,4.5
+SELL0109,HomeCraft,Chennai,Tamil Nadu,India,4.1
+SELL0110,HomeCraft,Calicut,Kerala,India,3.4
+SELL0111,GlowMart,Calicut,Kerala,India,4.4
+SELL0112,GlowMart,Mumbai,Maharashtra,India,4.4
+SELL0113,SportZone,Bangalore,Karnataka,India,3.4
+SELL0114,SportZone,Mumbai,Maharashtra,India,4.1
+SELL0115,TechNova,Bangalore,Karnataka,India,3.8
+SELL0116,FashionHub,Chennai,Tamil Nadu,India,4.8
+SELL0117,TechNova,Bangalore,Karnataka,India,4.7
+SELL0118,HomeCraft,Bangalore,Karnataka,India,4.5
+SELL0119,GlowMart,Chennai,Tamil Nadu,India,4.0
+SELL0120,SportZone,Mumbai,Maharashtra,India,3.0
+SELL0121,TechNova,Calicut,Kerala,India,4.1
+SELL0122,FashionHub,Kochi,Kerala,India,3.8
+SELL0123,FashionHub,Calicut,Kerala,India,3.9
+SELL0124,TechNova,Chennai,Tamil Nadu,India,3.2
+SELL0125,HomeCraft,Chennai,Tamil Nadu,India,4.4
+SELL0126,FashionHub,Kochi,Kerala,India,3.4
+SELL0127,TechNova,Calicut,Kerala,India,3.5
+SELL0128,HomeCraft,Chennai,Tamil Nadu,India,3.2
+SELL0129,SportZone,Bangalore,Karnataka,India,4.8
+SELL0130,TechNova,Kochi,Kerala,India,3.7
+SELL0131,SportZone,Kochi,Kerala,India,3.2
+SELL0132,SportZone,Bangalore,Karnataka,India,4.1
+SELL0133,TechNova,Kochi,Kerala,India,4.0
+SELL0134,SportZone,Bangalore,Karnataka,India,3.3
+SELL0135,HomeCraft,Calicut,Kerala,India,4.6
+SELL0136,HomeCraft,Kochi,Kerala,India,4.8
+SELL0137,TechNova,Calicut,Kerala,India,4.0
+SELL0138,SportZone,Kochi,Kerala,India,3.6
+SELL0139,GlowMart,Mumbai,Maharashtra,India,4.9
+SELL0140,SportZone,Mumbai,Maharashtra,India,4.4
+SELL0141,TechNova,Calicut,Kerala,India,5.0
+SELL0142,TechNova,Chennai,Tamil Nadu,India,4.3
+SELL0143,FashionHub,Kochi,Kerala,India,4.6
+SELL0144,TechNova,Kochi,Kerala,India,4.5
+SELL0145,FashionHub,Kochi,Kerala,India,3.4
+SELL0146,HomeCraft,Bangalore,Karnataka,India,3.1
+SELL0147,FashionHub,Mumbai,Maharashtra,India,4.2
+SELL0148,TechNova,Calicut,Kerala,India,4.5
+SELL0149,GlowMart,Kochi,Kerala,India,4.3
+SELL0150,HomeCraft,Bangalore,Karnataka,India,3.3
+SELL0151,FashionHub,Calicut,Kerala,India,3.9
+SELL0152,FashionHub,Calicut,Kerala,India,3.7
+SELL0153,FashionHub,Chennai,Tamil Nadu,India,4.4
+SELL0154,TechNova,Mumbai,Maharashtra,India,3.2
+SELL0155,FashionHub,Kochi,Kerala,India,3.1
+SELL0156,TechNova,Mumbai,Maharashtra,India,3.9
+SELL0157,GlowMart,Kochi,Kerala,India,4.4
+SELL0158,SportZone,Chennai,Tamil Nadu,India,4.9
+SELL0159,SportZone,Chennai,Tamil Nadu,India,5.0
+SELL0160,FashionHub,Mumbai,Maharashtra,India,4.7
+SELL0161,SportZone,Chennai,Tamil Nadu,India,4.3
+SELL0162,HomeCraft,Kochi,Kerala,India,3.8
+SELL0163,HomeCraft,Chennai,Tamil Nadu,India,3.6
+SELL0164,SportZone,Bangalore,Karnataka,India,3.4
+SELL0165,FashionHub,Calicut,Kerala,India,3.8
+SELL0166,SportZone,Mumbai,Maharashtra,India,3.9
+SELL0167,SportZone,Calicut,Kerala,India,3.2
+SELL0168,TechNova,Kochi,Kerala,India,3.5
+SELL0169,TechNova,Chennai,Tamil Nadu,India,4.1
+SELL0170,SportZone,Mumbai,Maharashtra,India,4.4
+SELL0171,TechNova,Kochi,Kerala,India,4.0
+SELL0172,FashionHub,Chennai,Tamil Nadu,India,4.6
+SELL0173,TechNova,Kochi,Kerala,India,4.0
+SELL0174,SportZone,Chennai,Tamil Nadu,India,4.8
+SELL0175,SportZone,Kochi,Kerala,India,4.1
+SELL0176,SportZone,Bangalore,Karnataka,India,4.1
+SELL0177,GlowMart,Bangalore,Karnataka,India,3.7
+SELL0178,FashionHub,Kochi,Kerala,India,3.1
+SELL0179,FashionHub,Mumbai,Maharashtra,India,3.3
+SELL0180,TechNova,Kochi,Kerala,India,4.0
+SELL0181,HomeCraft,Chennai,Tamil Nadu,India,3.1
+SELL0182,TechNova,Chennai,Tamil Nadu,India,4.5
+SELL0183,HomeCraft,Bangalore,Karnataka,India,3.3
+SELL0184,GlowMart,Bangalore,Karnataka,India,3.1
+SELL0185,TechNova,Calicut,Kerala,India,4.6
+SELL0186,TechNova,Calicut,Kerala,India,3.2
+SELL0187,SportZone,Kochi,Kerala,India,3.2
+SELL0188,HomeCraft,Kochi,Kerala,India,4.9
+SELL0189,HomeCraft,Calicut,Kerala,India,4.6
+SELL0190,GlowMart,Chennai,Tamil Nadu,India,3.1
+SELL0191,TechNova,Chennai,Tamil Nadu,India,4.4
+SELL0192,GlowMart,Bangalore,Karnataka,India,3.8
+SELL0193,SportZone,Calicut,Kerala,India,4.3
+SELL0194,GlowMart,Bangalore,Karnataka,India,3.3
+SELL0195,FashionHub,Chennai,Tamil Nadu,India,4.2
+SELL0196,SportZone,Chennai,Tamil Nadu,India,4.0
+SELL0197,SportZone,Mumbai,Maharashtra,India,4.8
+SELL0198,FashionHub,Calicut,Kerala,India,3.4
+SELL0199,SportZone,Bangalore,Karnataka,India,4.2
+SELL0200,GlowMart,Calicut,Kerala,India,3.8
+SELL0201,SportZone,Calicut,Kerala,India,3.9
+SELL0202,TechNova,Calicut,Kerala,India,4.2
+SELL0203,GlowMart,Calicut,Kerala,India,4.8
+SELL0204,GlowMart,Mumbai,Maharashtra,India,4.3
+SELL0205,GlowMart,Calicut,Kerala,India,4.4
+SELL0206,SportZone,Bangalore,Karnataka,India,3.3
+SELL0207,SportZone,Mumbai,Maharashtra,India,3.2
+SELL0208,FashionHub,Mumbai,Maharashtra,India,4.6
+SELL0209,FashionHub,Chennai,Tamil Nadu,India,5.0
+SELL0210,TechNova,Bangalore,Karnataka,India,3.7
+SELL0211,SportZone,Kochi,Kerala,India,3.8
+SELL0212,SportZone,Calicut,Kerala,India,4.4
+SELL0213,TechNova,Mumbai,Maharashtra,India,3.8
+SELL0214,HomeCraft,Kochi,Kerala,India,4.2
+SELL0215,SportZone,Chennai,Tamil Nadu,India,3.9
+SELL0216,TechNova,Bangalore,Karnataka,India,4.5
+SELL0217,FashionHub,Chennai,Tamil Nadu,India,3.3
+SELL0218,GlowMart,Calicut,Kerala,India,4.6
+SELL0219,HomeCraft,Calicut,Kerala,India,3.5
+SELL0220,TechNova,Chennai,Tamil Nadu,India,4.8
+SELL0221,TechNova,Chennai,Tamil Nadu,India,3.5
+SELL0222,FashionHub,Bangalore,Karnataka,India,4.1
+SELL0223,HomeCraft,Mumbai,Maharashtra,India,4.8
+SELL0224,SportZone,Kochi,Kerala,India,3.4
+SELL0225,SportZone,Kochi,Kerala,India,4.3
+SELL0226,GlowMart,Mumbai,Maharashtra,India,3.5
+SELL0227,FashionHub,Calicut,Kerala,India,4.4
+SELL0228,GlowMart,Chennai,Tamil Nadu,India,4.5
+SELL0229,SportZone,Chennai,Tamil Nadu,India,4.3
+SELL0230,HomeCraft,Bangalore,Karnataka,India,3.6
+SELL0231,FashionHub,Calicut,Kerala,India,4.8
+SELL0232,GlowMart,Kochi,Kerala,India,4.4
+SELL0233,HomeCraft,Chennai,Tamil Nadu,India,3.4
+SELL0234,GlowMart,Bangalore,Karnataka,India,3.2
+SELL0235,HomeCraft,Calicut,Kerala,India,3.6
+SELL0236,FashionHub,Mumbai,Maharashtra,India,3.7
+SELL0237,GlowMart,Bangalore,Karnataka,India,4.7
+SELL0238,FashionHub,Calicut,Kerala,India,3.8
+SELL0239,GlowMart,Kochi,Kerala,India,3.7
+SELL0240,GlowMart,Kochi,Kerala,India,3.4
+SELL0241,TechNova,Calicut,Kerala,India,3.9
+SELL0242,HomeCraft,Bangalore,Karnataka,India,4.6
+SELL0243,SportZone,Bangalore,Karnataka,India,4.2
+SELL0244,SportZone,Chennai,Tamil Nadu,India,4.8
+SELL0245,FashionHub,Calicut,Kerala,India,4.5
+SELL0246,FashionHub,Bangalore,Karnataka,India,4.1
+SELL0247,SportZone,Chennai,Tamil Nadu,India,3.4
+SELL0248,GlowMart,Bangalore,Karnataka,India,4.5
+SELL0249,HomeCraft,Kochi,Kerala,India,4.2
+SELL0250,GlowMart,Calicut,Kerala,India,3.1
+SELL0251,GlowMart,Calicut,Kerala,India,3.5
+SELL0252,FashionHub,Kochi,Kerala,India,4.9
+SELL0253,FashionHub,Bangalore,Karnataka,India,4.7
+SELL0254,SportZone,Bangalore,Karnataka,India,3.6
+SELL0255,HomeCraft,Calicut,Kerala,India,4.5
+SELL0256,TechNova,Kochi,Kerala,India,3.2
+SELL0257,HomeCraft,Chennai,Tamil Nadu,India,4.1
+SELL0258,SportZone,Calicut,Kerala,India,3.1
+SELL0259,FashionHub,Kochi,Kerala,India,4.2
+SELL0260,HomeCraft,Kochi,Kerala,India,3.4
+SELL0261,GlowMart,Mumbai,Maharashtra,India,5.0
+SELL0262,HomeCraft,Calicut,Kerala,India,4.7
+SELL0263,TechNova,Calicut,Kerala,India,4.8
+SELL0264,SportZone,Chennai,Tamil Nadu,India,4.0
+SELL0265,HomeCraft,Bangalore,Karnataka,India,3.2
+SELL0266,HomeCraft,Chennai,Tamil Nadu,India,4.6
+SELL0267,TechNova,Chennai,Tamil Nadu,India,3.0
+SELL0268,FashionHub,Kochi,Kerala,India,4.6
+SELL0269,SportZone,Calicut,Kerala,India,3.2
+SELL0270,TechNova,Mumbai,Maharashtra,India,4.1
+SELL0271,SportZone,Chennai,Tamil Nadu,India,4.8
+SELL0272,HomeCraft,Kochi,Kerala,India,3.7
+SELL0273,GlowMart,Mumbai,Maharashtra,India,4.5
+SELL0274,TechNova,Chennai,Tamil Nadu,India,4.9
+SELL0275,TechNova,Mumbai,Maharashtra,India,4.8
+SELL0276,HomeCraft,Kochi,Kerala,India,3.7
+SELL0277,FashionHub,Bangalore,Karnataka,India,4.8
+SELL0278,GlowMart,Calicut,Kerala,India,4.2
+SELL0279,SportZone,Calicut,Kerala,India,4.3
+SELL0280,GlowMart,Chennai,Tamil Nadu,India,3.2
+SELL0281,FashionHub,Bangalore,Karnataka,India,3.5
+SELL0282,HomeCraft,Chennai,Tamil Nadu,India,3.7
+SELL0283,SportZone,Calicut,Kerala,India,3.3
+SELL0284,FashionHub,Mumbai,Maharashtra,India,3.3
+SELL0285,FashionHub,Kochi,Kerala,India,4.2
+SELL0286,FashionHub,Chennai,Tamil Nadu,India,3.1
+SELL0287,GlowMart,Mumbai,Maharashtra,India,3.7
+SELL0288,TechNova,Mumbai,Maharashtra,India,3.2
+SELL0289,GlowMart,Calicut,Kerala,India,3.3
+SELL0290,HomeCraft,Chennai,Tamil Nadu,India,4.9
+SELL0291,GlowMart,Calicut,Kerala,India,4.3
+SELL0292,FashionHub,Bangalore,Karnataka,India,4.0
+SELL0293,HomeCraft,Mumbai,Maharashtra,India,3.9
+SELL0294,SportZone,Calicut,Kerala,India,4.4
+SELL0295,FashionHub,Calicut,Kerala,India,3.9
+SELL0296,TechNova,Calicut,Kerala,India,4.9
+SELL0297,SportZone,Calicut,Kerala,India,4.8
+SELL0298,HomeCraft,Bangalore,Karnataka,India,3.8
+SELL0299,TechNova,Chennai,Tamil Nadu,India,4.6
+SELL0300,HomeCraft,Calicut,Kerala,India,3.3
